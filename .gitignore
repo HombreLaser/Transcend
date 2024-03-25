@@ -1,0 +1,9 @@
+how_to_play.txt
+how_to_uninstall.txt
+TranscendApp
+*.o
+Transcend/game/Transcend
+Transcend/game/Makefile.all
+Transcend/game/Makefile.dependencies
+Transcend/game/Makefile.minorGems_dependencies
+Transcend/portaudio/lib
